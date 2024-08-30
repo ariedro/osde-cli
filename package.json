@@ -1,0 +1,15 @@
+{
+  "name": "osde-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for OSDE token generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "osde",
+    "cli"
+  ],
+  "author": "ariedro",
+  "license": "WTFPL"
+}

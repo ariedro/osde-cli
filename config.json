@@ -1,0 +1,8 @@
+{
+  "user": {
+    "name": "[Your name]",
+    "plan": "[Your plan]",
+    "membershipNumber": "[Your membership number]"
+  },
+  "seed": "<Your OTP seed>"
+}
