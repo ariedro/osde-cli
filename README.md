@@ -16,6 +16,10 @@ This is not related to OSDE or any other business of any kind and I reserve the 
 
 There is no need to install anything, as this tool doesn't use external libraries.
 
+## Configuration
+
+You need to fill your OTP seed on the `config.json` file. On Android you can get it by looking at the file located at `/data/data/ar.com.osde.ads/databases/credencialDigitalSqlite` (root required)
+
 ## Running
 
 ```sh
