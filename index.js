@@ -28,7 +28,7 @@ const getRemainingTime = () => {
   return Math.floor(seconds / 60) + "m " + (seconds % 60) + "s";
 };
 
-if (user) {
+if (user && !user.name.startsWith('[')) {
   console.log(user.name);
   console.log(user.membershipNumber);
   console.log(user.plan);
